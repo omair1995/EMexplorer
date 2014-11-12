@@ -1,7 +1,7 @@
 EMexplorer
 ==========
 
-EM connectomics 3D visuallizer 
+EM connectomics 3D visuallizer: https://www.youtube.com/watch?v=p8t9qNt0u2A&feature=youtu.be
  
 To get the rest of the data files, go to: https://www.dropbox.com/sh/20zogvt155pf4ee/AABmDageJPJ8QuuoN77_ckX1a?dl=0
 
